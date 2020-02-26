@@ -1,5 +1,5 @@
 # Python
-My student work while learning the most important language in data science // Microcourse work in Python provided by Kaggle.com, MIT, other various web locations & compiled at my natural pace. // Follow along & help me, or learn with me. @motherofdata 
+My student work while learning the most important language in data science // Microcourse work in Python provided by Kaggle.com, MIT, other various web locations & compiled at my natural pace. // Follow along & help me, or learn with me. @motherofdata, 2-2020, 
 
 * Lessons
 
@@ -7,7 +7,7 @@ My student work while learning the most important language in data science // Mi
 
 * Exercises
 
-All python work will be saved here, managed by forks and commits. 
+All python work will be saved here, managed by issues and commits. 
 
 * Lessons 
 
@@ -26,6 +26,11 @@ All python work will be saved here, managed by forks and commits.
   *7)Working with External Libraries
   * Imports, operator overloading, and survival tips for venturing into the world of external libraries
   
+  
 * Tutorials
+
+ *1.1) Hello, Python* (https://github.com/boredofwords/Python/issues/1)*
+ *  Quick, easy and funny spam program. 
+  
   
 * Exercises with Scratch work
