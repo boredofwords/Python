@@ -9,7 +9,7 @@ My student work while learning the most important language in data science // Mi
 
 All python work will be saved here, managed by issues and commits. 
 
-* Lessons 
+#Lessons 
 
   *1) Hello, Python* 
   *  A quick introduction to Python syntax, variable assignment, and numbers
@@ -27,10 +27,10 @@ All python work will be saved here, managed by issues and commits.
   * Imports, operator overloading, and survival tips for venturing into the world of external libraries
   
   
-* Tutorials
+#Tutorials
 
- *1.1) Hello, Python* (https://github.com/boredofwords/Python/issues/1)*
- *  Quick, easy and funny spam program. 
+  *1.1) Hello, Python* (https://github.com/boredofwords/Python/issues/1)*
+  * Quick, easy and funny spam program. 
   
   
-* Exercises with Scratch work
+#Exercises with Scratch work
