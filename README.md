@@ -11,7 +11,7 @@ All python work will be saved here, managed by issues and commits.
 
 **#Lessons**
 
-  *1) Hello, Python*
+  *1) [Hello, Python*]()
   
     * A quick introduction to Python syntax, variable assignment, and numbers
   
